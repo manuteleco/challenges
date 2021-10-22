@@ -108,6 +108,7 @@ each one of the challenges:
 | `challenge02` | `2b71f3` |
 | `challenge03` | `ce27a4` |
 | `challenge04` | `5b3562` |
+| `challenge05` | `222fd4` |
 
 
 ## Note for outsiders
